@@ -2,7 +2,7 @@
 // Number : int, double, num
 // NUmbers in Dart are used to represent numeric literals
 //int: The int data type is used to represent whole numbers.
-// double: The double type is used to represent 64but floatign point numbers.
+// double: The double type is used to represent 64but floating point numbers.
 // num: The num type is an inherited data type in the int and double types.
 
 void main() {
