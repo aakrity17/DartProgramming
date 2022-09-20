@@ -11,3 +11,5 @@ Maps ( Map),
 Sets(Set),
 Runes (Runes) ; Oftern replaces by the symbols (Symbol),
 The value null (NUll)
+
+3. Parse(): Parses a string containing a number literal into a number. The method first tries to read the input as integer (similar to int. parse without a radix). If that fails, it tries to parse the input as a double (similar to double.
